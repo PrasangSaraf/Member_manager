@@ -1,1 +1,3 @@
-# Member_manager
+Member-Module Simple application to perform CRUD operations to store, retrieve, add, update remove getALL getByContact getBycourse details of student. Used 
+ File handling , User can Add details of student, where the data will store in file member.data". User can Update details of student, User can get all record,User get  a student detail by contact number and course . User can Delete any student as required. User can view Details of all student. this application calculate  total fess of all student ,this application work command line interface.
+Example java memberManger add 9999999999 "xyz" c++ 5000
